@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.example.notescraft.app-release-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.notescraft.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/drawable_rounded_corner.xml.flat",
+        "source": "com.example.notescraft.app-main-6:/drawable/rounded_corner.xml"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.notescraft.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.notescraft.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.notescraft.app-main-6:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.notescraft.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/layout_activity_main.xml.flat",
+        "source": "com.example.notescraft.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/layout_activity_splash.xml.flat",
+        "source": "com.example.notescraft.app-main-6:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.notescraft.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/layout_activity_create_account.xml.flat",
+        "source": "com.example.notescraft.app-main-6:/layout/activity_create_account.xml"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.notescraft.app-main-6:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.notescraft.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/drawable_baseline_menu_24.xml.flat",
+        "source": "com.example.notescraft.app-main-6:/drawable/baseline_menu_24.xml"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/drawable_baseline_add_24.xml.flat",
+        "source": "com.example.notescraft.app-main-6:/drawable/baseline_add_24.xml"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.notescraft.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/drawable-v24_login.png.flat",
+        "source": "com.example.notescraft.app-main-6:/drawable-v24/login.png"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.notescraft.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/layout_activity_login.xml.flat",
+        "source": "com.example.notescraft.app-main-6:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/drawable_baseline_done_24.xml.flat",
+        "source": "com.example.notescraft.app-main-6:/drawable/baseline_done_24.xml"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.notescraft.app-main-6:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.notescraft.app-main-6:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.notescraft.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.notescraft.app-main-6:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.notescraft.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/layout_activity_note_details.xml.flat",
+        "source": "com.example.notescraft.app-main-6:/layout/activity_note_details.xml"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.notescraft.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.notescraft.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.notescraft.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/layout_recycler_note_item.xml.flat",
+        "source": "com.example.notescraft.app-main-6:/layout/recycler_note_item.xml"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/xml_backup_rules.xml.flat",
+        "source": "com.example.notescraft.app-main-6:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/drawable-v24_signup.png.flat",
+        "source": "com.example.notescraft.app-main-6:/drawable-v24/signup.png"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.notescraft.app-main-6:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.notescraft.app-release-5:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.notescraft.app-main-6:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    }
+]

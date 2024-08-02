@@ -1,0 +1,45 @@
+com.example.notescraft.app-pngs-0 C:\NotesCraft - Final\app\build\generated\res\pngs\debug
+com.example.notescraft.app-res-1 C:\NotesCraft - Final\app\build\generated\res\processDebugGoogleServices
+com.example.notescraft.app-resValues-2 C:\NotesCraft - Final\app\build\generated\res\resValues\debug
+com.example.notescraft.app-packageDebugResources-3 C:\NotesCraft - Final\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.notescraft.app-packageDebugResources-4 C:\NotesCraft - Final\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.notescraft.app-debug-5 C:\NotesCraft - Final\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.notescraft.app-debug-6 C:\NotesCraft - Final\app\src\debug\res
+com.example.notescraft.app-main-7 C:\NotesCraft - Final\app\src\main\res
+com.example.notescraft.app-drawerlayout-1.1.1-8 C:\Users\rogin\.gradle\caches\transforms-4\109ffff1b8066bcb6fd9df5f4d3cb521\transformed\drawerlayout-1.1.1\res
+com.example.notescraft.app-recyclerview-1.2.1-9 C:\Users\rogin\.gradle\caches\transforms-4\117f8ae88528b29904eea9ae9e7e8ccc\transformed\recyclerview-1.2.1\res
+com.example.notescraft.app-biometric-1.2.0-alpha05-10 C:\Users\rogin\.gradle\caches\transforms-4\35a4e8eb78817f6cf140383c7a4c9908\transformed\biometric-1.2.0-alpha05\res
+com.example.notescraft.app-annotation-experimental-1.3.0-11 C:\Users\rogin\.gradle\caches\transforms-4\3c1f6e72a4bb2974cfe5fc77a5bfb824\transformed\annotation-experimental-1.3.0\res
+com.example.notescraft.app-credentials-play-services-auth-1.2.0-rc01-12 C:\Users\rogin\.gradle\caches\transforms-4\42de9c3760cd5ae112bc41241aef9c06\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.example.notescraft.app-play-services-auth-20.7.0-13 C:\Users\rogin\.gradle\caches\transforms-4\487755943110e06c0862c9bed0882ffd\transformed\play-services-auth-20.7.0\res
+com.example.notescraft.app-lifecycle-runtime-2.6.1-14 C:\Users\rogin\.gradle\caches\transforms-4\4fa824265d4ed46b8835dea7e25969fb\transformed\lifecycle-runtime-2.6.1\res
+com.example.notescraft.app-lifecycle-viewmodel-savedstate-2.6.1-15 C:\Users\rogin\.gradle\caches\transforms-4\5298d08eb3919760f392fcf770ac2508\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.notescraft.app-lifecycle-livedata-2.6.1-16 C:\Users\rogin\.gradle\caches\transforms-4\55d65ba3aa286177aff43b350f84518f\transformed\lifecycle-livedata-2.6.1\res
+com.example.notescraft.app-emoji2-1.2.0-17 C:\Users\rogin\.gradle\caches\transforms-4\599e037b821e26750c39f9283524c288\transformed\emoji2-1.2.0\res
+com.example.notescraft.app-transition-1.2.0-18 C:\Users\rogin\.gradle\caches\transforms-4\5a46677ba8bb36ae90bcfd723a0ff386\transformed\transition-1.2.0\res
+com.example.notescraft.app-lifecycle-process-2.6.1-19 C:\Users\rogin\.gradle\caches\transforms-4\67c5a02e89709923b35b2626ded42895\transformed\lifecycle-process-2.6.1\res
+com.example.notescraft.app-cardview-1.0.0-20 C:\Users\rogin\.gradle\caches\transforms-4\67d4f0e80d846f7dee0471cd4c5d130b\transformed\cardview-1.0.0\res
+com.example.notescraft.app-lifecycle-viewmodel-2.6.1-21 C:\Users\rogin\.gradle\caches\transforms-4\76547075c520962df723c509bb2ce604\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.notescraft.app-startup-runtime-1.1.1-22 C:\Users\rogin\.gradle\caches\transforms-4\885344fd282a249a7cc57ed4da619e8e\transformed\startup-runtime-1.1.1\res
+com.example.notescraft.app-browser-1.4.0-23 C:\Users\rogin\.gradle\caches\transforms-4\8a412fb2fbf98a55e81ea5ba01a2792d\transformed\browser-1.4.0\res
+com.example.notescraft.app-profileinstaller-1.3.0-24 C:\Users\rogin\.gradle\caches\transforms-4\8e178af7f050f6ad48388e004c094b17\transformed\profileinstaller-1.3.0\res
+com.example.notescraft.app-core-ktx-1.9.0-25 C:\Users\rogin\.gradle\caches\transforms-4\8e7739451a303226e3cc3e2c158881b6\transformed\core-ktx-1.9.0\res
+com.example.notescraft.app-fragment-1.3.6-26 C:\Users\rogin\.gradle\caches\transforms-4\908a0ec3bf07f9502f5bef5a6cbfe56a\transformed\fragment-1.3.6\res
+com.example.notescraft.app-play-services-base-18.0.1-27 C:\Users\rogin\.gradle\caches\transforms-4\90ee3ab446049ebc56f4fc8cb1827de3\transformed\play-services-base-18.0.1\res
+com.example.notescraft.app-appcompat-resources-1.6.1-28 C:\Users\rogin\.gradle\caches\transforms-4\9256dca14abfe9f813ad7dc31586c680\transformed\appcompat-resources-1.6.1\res
+com.example.notescraft.app-play-services-basement-18.3.0-29 C:\Users\rogin\.gradle\caches\transforms-4\99b3dffc21e0d255c1d87bbb03c0cfe9\transformed\play-services-basement-18.3.0\res
+com.example.notescraft.app-savedstate-1.2.1-30 C:\Users\rogin\.gradle\caches\transforms-4\9b31c6174430fdb09c5862f98f00f409\transformed\savedstate-1.2.1\res
+com.example.notescraft.app-coordinatorlayout-1.1.0-31 C:\Users\rogin\.gradle\caches\transforms-4\9edb3a8bef46c2a3b5c51bf5734c4f0e\transformed\coordinatorlayout-1.1.0\res
+com.example.notescraft.app-constraintlayout-2.1.4-32 C:\Users\rogin\.gradle\caches\transforms-4\9ee4d9730ef93e49c3f93feda86a700e\transformed\constraintlayout-2.1.4\res
+com.example.notescraft.app-emoji2-views-helper-1.2.0-33 C:\Users\rogin\.gradle\caches\transforms-4\9fc6e82a31aaa0e8d35f7378a5e5db64\transformed\emoji2-views-helper-1.2.0\res
+com.example.notescraft.app-viewpager2-1.0.0-34 C:\Users\rogin\.gradle\caches\transforms-4\a723e6acc31483a471089a473308f1aa\transformed\viewpager2-1.0.0\res
+com.example.notescraft.app-core-1.9.0-35 C:\Users\rogin\.gradle\caches\transforms-4\a9af260d0d3ea7d1663ea6129d47fa02\transformed\core-1.9.0\res
+com.example.notescraft.app-material-1.11.0-36 C:\Users\rogin\.gradle\caches\transforms-4\af4a4cd6b3bbe6a160a3256baeaf99e4\transformed\material-1.11.0\res
+com.example.notescraft.app-media-1.0.0-37 C:\Users\rogin\.gradle\caches\transforms-4\b7019576b112e45e2409a561aa018cca\transformed\media-1.0.0\res
+com.example.notescraft.app-lifecycle-livedata-core-2.6.1-38 C:\Users\rogin\.gradle\caches\transforms-4\d16f05ef6383a2c4c0c87734e3131003\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.notescraft.app-credentials-1.2.0-rc01-39 C:\Users\rogin\.gradle\caches\transforms-4\e5da45b1416833f46d2e40a255e42412\transformed\credentials-1.2.0-rc01\res
+com.example.notescraft.app-firebase-common-21.0.0-40 C:\Users\rogin\.gradle\caches\transforms-4\ec714b29a99068f08b395a94535adbec\transformed\firebase-common-21.0.0\res
+com.example.notescraft.app-paging-rxjava3-3.0.0-41 C:\Users\rogin\.gradle\caches\transforms-4\ece3a1c883c961398541b74ad2a26d8d\transformed\paging-rxjava3-3.0.0\res
+com.example.notescraft.app-core-runtime-2.2.0-42 C:\Users\rogin\.gradle\caches\transforms-4\eda985ac6a183c8c63a3942bbd3d8f31\transformed\core-runtime-2.2.0\res
+com.example.notescraft.app-activity-1.8.0-43 C:\Users\rogin\.gradle\caches\transforms-4\efdf5b8b439465132d97cc3484c2ab1b\transformed\activity-1.8.0\res
+com.example.notescraft.app-appcompat-1.6.1-44 C:\Users\rogin\.gradle\caches\transforms-4\fef8a86727a2b154ebb3143a5fd8cbf1\transformed\appcompat-1.6.1\res

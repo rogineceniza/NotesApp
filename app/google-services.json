@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189023672008",
+    "project_id": "notescraft-ddef6",
+    "storage_bucket": "notescraft-ddef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189023672008:android:df23321bdf27f58438f7fd",
+        "android_client_info": {
+          "package_name": "com.example.notescraft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM3vYupgNo21AFe8TP2QZnqbihgKy3p4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
